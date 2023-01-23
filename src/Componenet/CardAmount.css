@@ -1,0 +1,17 @@
+.amount-card{
+    color: chartreuse;
+    background-color: cadetblue;
+    width: 100px;
+    margin: 0 auto;
+    
+    }
+    .input-Add{
+        width: 99%;
+        margin: 2px 0px;
+        padding: 3px 0px;
+    }
+.btn-Add{
+        margin: 5px auto;
+        background-color: rgb(55, 175, 51);
+        padding: 3px 10px;
+    }

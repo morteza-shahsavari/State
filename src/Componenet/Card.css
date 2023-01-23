@@ -1,0 +1,12 @@
+.main-contaier{
+    width: 70%;
+    border: 1px solid sienna;
+    background-color: aqua;
+    margin: 0 auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 30px;
+}
+.type-card{
+margin-bottom: 10px;
+}
